@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining1\RevitAPIUI3.dll"</Assembly>
+		<AddInId>DFD7A262-02F8-4CE7-BF17-F3268929AA82</AddInId>
+		<FullClassName>RevitAPIUI3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Воздуховод по точкам</Text>
+	</AddIn>
+</RevitAddIns>
